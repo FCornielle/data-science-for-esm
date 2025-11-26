@@ -11,3 +11,4 @@ data-science-for-esm/_build/
 data-science-for-esm/tmp.csv
 *cleared.ipynb
 data
+venv/   

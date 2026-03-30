@@ -12,3 +12,4 @@ data-science-for-esm/tmp.csv
 *cleared.ipynb
 data
 venv/   
+.venv/
